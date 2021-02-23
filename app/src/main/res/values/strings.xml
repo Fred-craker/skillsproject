@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XPro</string>
+
+    <string name="about_words">This Application is made by Computer Science Students of Makerere University on which the idea was based on making people aware of the exchange rates regardless of where they are.Few features are in this application but more features are to be expected in the near future</string>
+    <string name="convert_btn">CONVERT</string>
+    <string name="amount_converted_title">Amount Converted</string>
+    <string name="amount_title">Amount</string>
+    <string name="from_title">From</string>
+    <string name="to_title">To</string>
+</resources>
